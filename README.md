@@ -3,6 +3,10 @@
 > 整个项目所花时间:2018年1月1日10:20~2018年1月1日18:27   花了很多时间去爬数据
 > 项目地址: https://github.com/xfhy/DeepNight-in-kotlin
 
+下载试玩:
+http://fir.im/lga9
+![](http://olg7c0d2n.bkt.clouddn.com/18-1-1/40864026.jpg)
+
 ### 项目简介
 
 一款纯看妹子的app,素材全部来源于正经图库(如有侵权,请立马告诉本人,本人邮箱xfhy666@qq.com,我定立刻删除),本app仅做学习交流使用,勿做商用.请注意,全是正经图片,可别想歪了哈.
@@ -21,7 +25,7 @@
 
 <img src="http://olg7c0d2n.bkt.clouddn.com/18-1-1/38611177.jpg" height=400px/>
 
-<img src="http://olg7c0d2n.bkt.clouddn.com/18-1-1/63741717.jpg" height=400px/>
+<img src="http://olg7c0d2n.bkt.clouddn.com/18-1-1/83801702.jpg" height=400px/>
 
 说实话,项目中有很多需要优化的地方,但是时间确实有点短,来不及了,很多地方命名不规范,因为我每次想命名需要花很多时间,以前我每一个命名都是仔细思考过的.然后很多地方没有注释,也是来不及了.平时我非常注重注释.
 
