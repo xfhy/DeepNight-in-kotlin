@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+
+    <item android:drawable="@drawable/night_pull_to_refresh_1" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_2" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_3" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_4" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_5" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_6" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_7" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_8" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_9" android:duration="100"/>
+    <item android:drawable="@drawable/night_pull_to_refresh_10" android:duration="100"/>
+
+</animation-list>

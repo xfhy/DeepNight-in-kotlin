@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39C5BB</color>
+    <color name="colorPrimaryDark">#25a198</color>
+    <color name="colorAccent">#39C5BB</color>
+
+    <color name="color_ffffff">#FFFFFF</color>
+    <color name="color_000000">#000000</color>
+
+    <!--黑色字体颜色-->
+    <color name="color_1e1e1e">#1e1e1e</color>
+
+    <!--fragment背景-->
+    <color name="fragment_background">#F3F3F3</color>
+    <color name="color_translucent_white">#88FFFFFF</color>
+
+    <!--item-->
+    <color name="color_header">#6F6F6F</color>
+
+    <color name="comment_reply">#9ba4a3</color>
+</resources>

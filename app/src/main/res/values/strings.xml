@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DeepNight</string>
+    <string name="app_intro">A pure looking App for you</string>
+    <string name="drawer_menu_read">分类</string>
+    <string name="drawer_menu_options">选项</string>
+    <string name="drawer_menu_about">关于</string>
+    <string name="drawer_menu_area">地区分类</string>
+    <string name="drawer_menu_picture">图片分类</string>
+    <string name="drawer_menu_station">名站写真</string>
+    <string name="drawer_menu_diagrams">日本套图</string>
+    <string name="navigation_drawer_open">菜单打开</string>
+    <string name="navigation_drawer_close">菜单关闭</string>
+</resources>

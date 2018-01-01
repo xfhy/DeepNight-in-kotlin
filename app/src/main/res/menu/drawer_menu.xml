@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--侧滑菜单-->
+    <item android:title="@string/drawer_menu_read">
+        <menu>
+            <item
+                android:id="@+id/nav_menu_area"
+                android:checkable="true"
+                android:checked="true"
+                android:icon="@drawable/draw_area"
+                android:title="@string/drawer_menu_area"/>
+            <item
+                android:id="@+id/nav_menu_picture"
+                android:checkable="true"
+                android:icon="@drawable/draw_picture"
+                android:title="@string/drawer_menu_picture"/>
+
+            <item
+                android:id="@+id/nav_menu_station"
+                android:checkable="true"
+                android:icon="@drawable/draw_station"
+                android:title="@string/drawer_menu_station"/>
+            <item
+                android:id="@+id/nav_menu_diagrams"
+                android:checkable="true"
+                android:icon="@drawable/draw_diagrams"
+                android:title="@string/drawer_menu_diagrams"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/drawer_menu_options">
+        <menu>
+
+            <item
+                android:id="@+id/nav_menu_about"
+                android:checkable="true"
+                android:icon="@drawable/drawer_about"
+                android:title="@string/drawer_menu_about"/>
+        </menu>
+    </item>
+
+
+</menu>
