@@ -1,5 +1,10 @@
 # 8小时 用kotlin开发一款app
 
+![image](https://img.shields.io/badge/api-%2B19-blue.svg)
+![image](https://img.shields.io/badge/license-Apache2.0-blue.svg)
+[![image](https://img.shields.io/badge/author-xfhy-orange.svg)](https://github.com/xfhy)
+[![image](https://img.shields.io/badge/CSDN-潇风寒月-orange.svg)](https://blog.csdn.net/xfhy_)
+
 > 整个项目所花时间:2018年1月1日10:20~2018年1月1日18:27   花了很多时间去爬数据
 > 项目地址: https://github.com/xfhy/DeepNight-in-kotlin
 
